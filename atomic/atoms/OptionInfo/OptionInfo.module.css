@@ -1,0 +1,7 @@
+.flex_grow{
+  flex-grow: 1;
+}
+.rating_price{
+  display: flex;
+  justify-content: space-between;
+}
