@@ -1,3 +1,5 @@
-export { default as Title } from './Title/Title';
-export { default as Text_p } from './Text_p/Text_p';
-export { default as Photo } from './Photo/Photo';
+export { default as Option } from './Option/Option';
+export { default as OptionInfo } from './OptionInfo/OptionInfo';
+export { default as Nav } from './Nav/Nav';
+export { default as LanguageButton } from './LanguageButton/LanguageButton';
+export { default as SingUp } from './SingUp/SingUp';

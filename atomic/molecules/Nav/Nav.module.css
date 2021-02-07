@@ -1,0 +1,13 @@
+.nav_wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+.nav_wrapper a {
+  text-decoration: none;
+  margin: 20px 10px;
+  color: white;
+  font-size: 20px;
+}
+.nav_wrapper a:hover {
+  text-decoration: underline;
+}

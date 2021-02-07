@@ -1,5 +1,5 @@
 import React from 'react';
-import { Title, Text_p } from '../../molecules';
+import { Title, Text_p } from '../../atoms';
 import styles from './OptionInfo.module.css';
 
 const OptionInfo = ({address, address: { countryName, locality,

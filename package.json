@@ -8,9 +8,16 @@
     "start": "next start"
   },
   "dependencies": {
+    "mobx": "^6.0.4",
+    "mobx-react": "^7.0.5",
     "next": "^10.0.0",
     "react": "16.13.1",
+    "react-calendar": "^3.3.0",
     "react-dom": "16.13.1",
-    "react-google-maps": "^9.4.5"
+    "react-google-maps": "^9.4.5",
+    "react-modal": "^3.12.1"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.12.1"
   }
 }

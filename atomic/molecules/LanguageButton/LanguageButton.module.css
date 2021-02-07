@@ -1,0 +1,24 @@
+.language_btn_wrapper {
+  position: relative;
+  margin-top: 15px;
+  height: 40px;
+  width: 40px;
+  border-radius: 10px;
+}
+.language_btn_wrapper:hover{
+  background: white;
+}
+.language_btn {
+  position: absolute;
+  display: none;
+}
+.btn_img {
+  position: absolute;
+  height: 30px;
+  width: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  top: 5px;
+}

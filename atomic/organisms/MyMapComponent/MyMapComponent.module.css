@@ -1,0 +1,23 @@
+.marker_label{
+  background-color: white;
+  font-size: 12px;
+  padding: 3px 8px;
+  border-radius: 30px;
+  
+  
+}
+.marker_label_selected{
+  background-color: red;
+  font-size: 12px;
+  padding: 3px 8px;
+  border-radius: 30px;
+  
+}
+.preview img{
+  width: 90%;
+  display: block;
+  margin: auto;
+}
+.preview p {
+  margin-left: 20px;
+}

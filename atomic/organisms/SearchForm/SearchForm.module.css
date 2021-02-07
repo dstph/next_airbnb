@@ -1,0 +1,41 @@
+.searchform_container {
+  background-color: white;
+  border-radius: 30px;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 55px;
+
+}
+.searchform_container form{
+  display: flex;
+  justify-content: space-around;
+}
+.modal {
+  margin-top: 100px;
+}
+.small_bold{
+  padding-top: 5px;
+  display: grid;
+  margin-top: 5px;
+  
+}
+.input{
+  border: none;
+  outline: none;
+  height: 20px;
+}
+.searchform_container button{
+  border: none;
+  margin-top: 5px;
+  background-color: white;
+  outline: none;
+}
+.searchform_container button p {
+  margin: 5px;
+}
+.searchform_container button:hover{
+ background-color: tomato;
+ border-radius: 25px;
+}

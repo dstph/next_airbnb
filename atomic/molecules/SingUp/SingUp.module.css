@@ -1,0 +1,22 @@
+.sing_up_img {
+  height: 30px;
+  width: 30px;
+  margin-top: 5px;
+}
+.sing_up_img:first-child {
+  margin-left: 10px;
+}
+.sing_up_btn {
+  display: none;
+  position: absolute;
+}
+.sing_up_wrapper {
+  position: relative;
+  margin-top: 15px;
+  height: 40px;
+  width: 80px;
+  border-radius: 10px;
+}
+.sing_up_wrapper:hover{
+  background: white;
+}
